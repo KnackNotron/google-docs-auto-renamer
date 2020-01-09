@@ -1,9 +1,12 @@
 // ==UserScript==
 // @name         Rename Google Docs Notes/Assignments Titles
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/KnackNotron/
 // @version      0.3
 // @description  rename my google docs I use for notes and assignments for classes
 // @author       KnackNotron
+// @homepage     https://github.com/KnackNotron/google-docs-auto-renamer
+// @downloadurl  https://github.com/KnackNotron/google-docs-auto-renamer/raw/master/Rename%20Google%20Docs%20Notes%20Titles.user.js
+// @updateurl    https://github.com/KnackNotron/google-docs-auto-renamer/raw/master/Rename%20Google%20Docs%20Notes%20Titles.user.js
 // @match        https://docs.google.com/document/*
 // @grant        none
 // ==/UserScript==
